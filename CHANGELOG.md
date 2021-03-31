@@ -7,4 +7,4 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - :tada: Intial app
 
-[v1.0.0]: https://github.com/cujarrett/express-like-lambda-example/releases/tag/v1.0.0
+[v1.0.0]: https://github.com/devraghavm/bridgeapi/releases/tag/v1.0.0

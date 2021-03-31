@@ -1,9 +1,9 @@
-variable "aws-iam-role-express-like-lambda-example-arn" {
-  description = "IAM role ARN"
-  type = string
+variable "lambda_function_name" {}
+variable "lambda_role_arn" {}
+variable "lambda_zip_filename" {}
+variable "lambda_function_handler" {}
+variable "bridgeapi_lambda_layer" {
+  default = ""
 }
-
-variable "data-archive-file-placeholder-output-path" {
-  description = "Placeholder content for Lambda"
-  type = string
-}
+variable "lambda_region" {}
+variable "dynamodb_tablename" {}

@@ -13,6 +13,7 @@ node_modules/
 terraform.tfstate
 terraform.tfstate.backup
 terraform/modules/archive/lambda-function-payload.zip
+.terraform.lock.hcl
 
 #  Local .terraform directories
 **/.terraform/*
